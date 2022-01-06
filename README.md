@@ -1,3 +1,6 @@
+Comentarios:
+El lazy load y paginado se intentó hacer desde cero, sin usar librerías, se encuentra comentado debido a que ocasionaba rerenders y bugs.
+
 Consignas:
 
 Desarrollar usando reactjs un componente de tipo dropdown:
@@ -9,6 +12,3 @@ Desarrollar usando reactjs un componente de tipo dropdown:
 - Debe permitir parametrizar qué atributo del objeto consultado se mostrará al usuario
 
 - El primer resultado del dropdown debe ser una opción fija que al darle click levante un pequeño pop-up, parte del componente, que permita agregar un nuevo objeto con el texto ya ingresado.
-
-Comentarios:
-El lazy load y paginado se intentó hacer desde cero, sin usar librerías, se encuentra comentado debido a que ocasionaba rerenders y bugs.
